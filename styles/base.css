@@ -1,0 +1,47 @@
+* {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #169dd3 10%, #4EC5D4 20%);
+  background-size: 100%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+
+h2 {
+  background-color: #2bb634;
+  background-image: linear-gradient(45deg, #148c2a 10%, #4ed452 20%);
+  background-size: 100%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+
+strong {
+  background-color: #6d23f7;
+  background-image: linear-gradient(45deg, #be7bfd -40%, #debaf9 100%);
+  background-size: 100%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+
+.purple {
+  background-color: #a316e0;
+  background-image: linear-gradient(45deg, #e6bee8 8%, #cd0aca 100%);
+  background-size: 100%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
